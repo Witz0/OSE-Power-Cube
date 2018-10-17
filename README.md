@@ -1,2 +1,3 @@
 # OSE-Power-Cube
-Open Source Ecology Power Cube
+Open Source Ecology Power Cube(s)
+
